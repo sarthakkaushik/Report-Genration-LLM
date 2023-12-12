@@ -1,0 +1,16 @@
+openai
+# llama-index
+langchain
+# trulens-eval
+python-dotenv
+pypdf
+# torch
+# torch
+# torchvision
+# torchaudio
+numpy
+pandas
+sentence-transformers
+sentencepiece
+streamlit
+# streamlit-chat    
